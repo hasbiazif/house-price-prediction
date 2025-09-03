@@ -1,0 +1,9 @@
+# Ignore data files
+data/*
+!.gitkeep
+
+# Ignore cache & venv
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
